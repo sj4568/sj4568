@@ -1,6 +1,6 @@
 # MD Shariful Islam
 
-**Senior Backend Engineer | NestJS • Node.js • AWS • Microservices**
+**Backend Engineer | NestJS • Node.js • AWS • Microservices**
 
 I build scalable backend systems, APIs, and cloud-native applications with a strong focus on performance, security, and maintainability.
 
